@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nvar Football = function Football() {\n  return __jsx(\"h1\", null, \"Football Attraction\");\n};\n\nexport default Football;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\n\n//Custom 404 Message\nconst Custom404 = (req, res) => {\n  return __jsx(\"h1\", {\n    style: {\n      textAlign: 'center'\n    }\n  }, \" Oops, It seems you entered a wrong ENDPOINT.. Please try again! \");\n};\n\nexport default Custom404;","map":null,"metadata":{},"sourceType":"module"}

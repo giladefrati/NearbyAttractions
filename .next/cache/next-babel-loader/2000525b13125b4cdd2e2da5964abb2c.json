@@ -1,0 +1,1 @@
+{"ast":null,"code":"// API Routes Details\n// https://nextjs.org/learn/basics/api-routes/api-routes-details\nconst hello = (req, res) => {\n  res.status(200).json({\n    'msg': 'no no, hello you!'\n  });\n};\n\nexport default hello;","map":null,"metadata":{},"sourceType":"module"}
